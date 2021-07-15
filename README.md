@@ -1,7 +1,10 @@
 A MERN stack whatsapp clone application
 React js - for frontend
 MongoDB - for database coonection
-Node js , Express js - for backend 
+Node js , Express js - for backend. 
+I have used Pusher as well for the real time experience for web 
+
+![image](https://user-images.githubusercontent.com/55314761/125793045-5c578465-d3bc-482f-9c84-f811d9263899.png)
 
 
-![image](https://user-images.githubusercontent.com/55314761/125786665-dbc94ad0-a7aa-4aa4-bc92-8eb8416f9009.png)
+
