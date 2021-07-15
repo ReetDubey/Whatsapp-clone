@@ -1,0 +1,8 @@
+const firebaseConfig = {
+    apiKey: "AIzaSyCU_IeV7TED7yreAvU6aRqyTH4pliJqt1g",
+    authDomain: "whatsapp-clone-24596.firebaseapp.com",
+    projectId: "whatsapp-clone-24596",
+    storageBucket: "whatsapp-clone-24596.appspot.com",
+    messagingSenderId: "691528709177",
+    appId: "1:691528709177:web:854d563d924855526989e8"
+  };
