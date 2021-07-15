@@ -9,10 +9,10 @@ function App() {
 
   useEffect(() => {
     axios.get('/messages/sync').then(response => {
-      setMessages(response.data)
-    })
+      setMessages(response.data);
+    });
 
-  }, [])
+  }, []);
 
   useEffect(() => {
     const pusher = new Pusher("5ec294247410c0bc4969", {

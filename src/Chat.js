@@ -18,7 +18,7 @@ function Chat( {messages} ) {
       message: input,
       name: "ReetD",
       timestamp: "Just now",
-      received: false,
+      received: true,
     });
 
     setInput("");
@@ -26,11 +26,12 @@ function Chat( {messages} ) {
     return (
         <div className="chat">
          <div className="chat__header">
-             <Avatar />
+             <Avatar src="https://media-exp1.licdn.com/dms/image/C5603AQFnoFlGkeQvnQ/profile-displayphoto-shrink_800_800/0/1589027558728?e=1631750400&v=beta&t=lXIICCEKlUYpPLSP2Jz96BdkcqfrA9G3AGs2JRHPMiw"
+             />
 
          <div className="chat__headerInfo">
-             <h3>Unknown</h3>
-             <p>Last seen at...</p>
+             <h3>Reet</h3>
+             <p>Last seen at 4:30pm Tuesday</p>
          </div>
 
          <div className="chat__headerRight">
